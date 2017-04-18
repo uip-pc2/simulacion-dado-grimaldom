@@ -1,0 +1,6 @@
+Dado numero 1: Dos , Dado numero 2: Uno
+Dado numero 1: Cinco , Dado numero 2: Seis
+Dado numero 1: Seis , Dado numero 2: Uno
+Dado numero 1: Dos , Dado numero 2: Seis
+Dado numero 1: Tres , Dado numero 2: Seis
+Dado numero 1: Cinco , Dado numero 2: Uno
